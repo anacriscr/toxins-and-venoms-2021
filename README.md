@@ -5,11 +5,11 @@ This repository contains a quick guide to the digital image analysis pipeline us
 
 ## Example runs
 The following two runs show the CellProfiler pipeline running on control images:
-![Controls](./assets/videos/controls.mp4)
+![Controls](https://github.com/anacriscr/toxins-and-venoms-2021/blob/main/assets/videos/controls.mp4?raw=true)
 
 
 ...and on treated samples:
-![Treated samples](./assets/videos/treatments.mp4)
+![Treated samples](https://github.com/anacriscr/toxins-and-venoms-2021/blob/main/assets/videos/controls.mp4?raw=true)
 
 ## Configuration
 In order to configure a similar pipeline, here's an overview of the flow:
